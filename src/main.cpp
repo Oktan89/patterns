@@ -11,7 +11,7 @@ int main()
     mallard->performFly();
     mallard->setFlyBehavior(new FlyNoWay());
     mallard->performFly();
-
+     
         
     delete mallard;
 }
